@@ -1,0 +1,1 @@
+A specific deployment implementation of Sifo using https://github.com/sifophp/sifo-app
